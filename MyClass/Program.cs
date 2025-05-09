@@ -1,4 +1,5 @@
-﻿using System;
+/* Лабораторная 9. Упражнение 1. Разработка класса Book */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
